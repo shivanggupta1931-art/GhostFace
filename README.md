@@ -1,7 +1,7 @@
 # Ghostface: Digital Evidence Locker & AI Forensics Platform
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/shivanggupta1931-art/GhostFace)
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel)](https://ghost-face-omega.vercel.app/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-brightgreen?logo=vercel)](https://ghostfacep1.vercel.app)
 
 A cryptographic digital evidence integrity and forensic analysis platform with real-time hardware capture, SHA-256 / Ed25519 tamper-proof digital sealing, forensic image/video comparator, and physics-based AI-generated image detection.
 
@@ -9,10 +9,8 @@ A cryptographic digital evidence integrity and forensic analysis platform with r
 
 ## 🌐 Live Deployments & Links
 
-- **GitHub Repository**: [https://github.com/shivanggupta1931-art/GhostFace](https://github.com/shivanggupta1931-art/GhostFace)
-- **Vercel Live App**: [https://ghost-face-omega.vercel.app/](https://ghost-face-omega.vercel.app/) *(or deploy with 1-click below)*
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshivanggupta1931-art%2FGhostFace)
+- **🚀 Live Web Application (Vercel)**: **[https://ghostfacep1.vercel.app](https://ghostfacep1.vercel.app)**
+- **📦 GitHub Repository**: **[https://github.com/shivanggupta1931-art/GhostFace](https://github.com/shivanggupta1931-art/GhostFace)**
 
 ---
 
@@ -37,7 +35,7 @@ A cryptographic digital evidence integrity and forensic analysis platform with r
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start (Local Development)
 
 ### Prerequisites
 - Python 3.10+
